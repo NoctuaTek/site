@@ -67,8 +67,8 @@
         overflow: hidden;
 
         display: flex;
-	justify-content: center;
-	align-items: center;
+        justify-content: center;
+        align-items: center;
     }
 
     .content {
